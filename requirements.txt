@@ -7,7 +7,6 @@ Werkzeug==0.12.2
 certifi==2017.4.17
 chardet==3.0.3
 click==6.7
-cssmin==0.2.0
 cssselect==1.0.1
 funcsigs==1.0.2
 futures==3.1.1
